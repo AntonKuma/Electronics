@@ -1,0 +1,370 @@
+!SESSION 2019-11-22 14:54:27.992 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_ID
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2019-11-22 14:56:02.396
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2019-11-22 14:56:02.459
+!MESSAGE OS info: Windows 10, 10.0, x86
+
+!ENTRY TrueSTUDIO 1 0 2019-11-22 14:56:05.303
+!MESSAGE Target: STM32, Version: 9.3.0, Build date: 20190212-0734, Installation dir: /D:/Prog/TrueSTUDIO for STM32 9.3.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2019-11-22 14:56:05.318
+!MESSAGE Workspace: D:\!Data\Project\STM32
+
+!ENTRY org.eclipse.jface 2 0 2019-11-22 14:56:10.700
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-11-22 14:56:10.700
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@504ce9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@52d2f2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2019-11-22 14:56:26.059
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2019-11-22 14:56:26.262
+!MESSAGE Code Review is up.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-11-22 14:56:37.153
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\perba'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2019-11-22 14:57:06.683
+!MESSAGE Unloading product manager
+!SESSION 2019-11-25 09:02:32.824 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_ID
+Framework arguments:  D:\!Data\Project\STM32\Test\Test\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86 D:\!Data\Project\STM32\Test\Test\.cproject
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2019-11-25 09:02:54.401
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2019-11-25 09:02:54.526
+!MESSAGE OS info: Windows 10, 10.0, x86
+
+!ENTRY TrueSTUDIO 1 0 2019-11-25 09:03:03.901
+!MESSAGE Target: STM32, Version: 9.3.0, Build date: 20190212-0734, Installation dir: /D:/Prog/TrueSTUDIO for STM32 9.3.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2019-11-25 09:03:03.917
+!MESSAGE Workspace: D:\!Data\Project\STM32
+
+!ENTRY org.eclipse.jface 2 0 2019-11-25 09:03:24.614
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-11-25 09:03:24.614
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3d168e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@9b53fa,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2019-11-25 09:03:52.894
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-11-25 09:03:53.629
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\perba'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2019-11-25 09:03:54.191
+!MESSAGE Code Review is up.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2019-11-25 09:04:25.203
+!MESSAGE Test needs property 'com.atollic.truestudio.general.runtimelib.1490669562' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2019-11-25 09:04:26.441
+!MESSAGE Test needs property 'com.atollic.truestudio.toolchain_options.mcu.1707015027' fixed. Fixing to 'STM32F103C8'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2019-11-25 09:04:26.572
+!MESSAGE Test needs property 'com.atollic.truestudio.toolchain_options.vendor.750408421' fixed. Fixing to 'STMicroelectronics'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2019-11-25 09:04:53.997
+!MESSAGE Test needs property 'com.atollic.truestudio.general.runtimelib.1305821073' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2019-11-25 09:04:54.028
+!MESSAGE Test needs property 'com.atollic.truestudio.toolchain_options.mcu.406978335' fixed. Fixing to 'STM32F103C8'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2019-11-25 09:04:54.028
+!MESSAGE Test needs property 'com.atollic.truestudio.toolchain_options.vendor.2144598987' fixed. Fixing to 'STMicroelectronics'.
+
+!ENTRY org.eclipse.cdt.core 1 0 2019-11-25 09:05:28.214
+!MESSAGE Indexed 'Test' (18 sources, 43 headers) in 30 sec: 4,756 declarations; 12,945 references; 26 unresolved inclusions; 248 syntax errors; 4,458 unresolved names (20%)
+
+!ENTRY TrueSTUDIO 4 0 2019-11-25 09:17:17.602
+!MESSAGE ST-LINK GDB server failed to start (exit code = 2)
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 5012 2019-11-25 09:17:17.823
+!MESSAGE Error in initializing ST-Link device.
+Reason: (2) ST-Link DLL error.
+
+!ENTRY TrueSTUDIO 4 0 2019-11-25 09:19:11.175
+!MESSAGE ST-LINK GDB server failed to start (exit code = 6)
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 5012 2019-11-25 09:19:11.321
+!MESSAGE Error in initializing ST-Link device.
+Reason: (6) ST-Link firmware upgrade required.
+Please upgrade the ST-Link firmware using the upgrade tool. Reconnect ST-LINK and click OK
+
+!ENTRY org.eclipse.ui 4 4 2019-11-25 09:20:13.959
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.TaskList.
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2019-11-25 09:43:20.225
+!MESSAGE Unloading product manager
+!SESSION 2019-11-25 09:46:25.842 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_ID
+Framework arguments:  D:\!Data\Project\STM32\Test\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86 D:\!Data\Project\STM32\Test\.cproject
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2019-11-25 09:46:31.732
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2019-11-25 09:46:31.779
+!MESSAGE OS info: Windows 10, 10.0, x86
+
+!ENTRY TrueSTUDIO 1 0 2019-11-25 09:46:35.029
+!MESSAGE Target: STM32, Version: 9.3.0, Build date: 20190212-0734, Installation dir: /D:/Prog/TrueSTUDIO for STM32 9.3.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2019-11-25 09:46:35.060
+!MESSAGE Workspace: D:\!Data\Project\STM32
+
+!ENTRY org.eclipse.jface 2 0 2019-11-25 09:46:46.330
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-11-25 09:46:46.330
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@125d695,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@f8090b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2019-11-25 09:46:58.424
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2019-11-25 09:46:58.595
+!MESSAGE Code Review is up.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-11-25 09:46:58.861
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\perba'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2019-11-25 09:47:03.080
+!MESSAGE Test needs property 'com.atollic.truestudio.general.runtimelib.1112845898' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2019-11-25 09:47:03.127
+!MESSAGE Test needs property 'com.atollic.truestudio.toolchain_options.mcu.1528143064' fixed. Fixing to 'STM32F103C8'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2019-11-25 09:47:03.127
+!MESSAGE Test needs property 'com.atollic.truestudio.toolchain_options.vendor.1412521070' fixed. Fixing to 'STMicroelectronics'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2019-11-25 09:47:05.611
+!MESSAGE Test needs property 'com.atollic.truestudio.general.runtimelib.219338956' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2019-11-25 09:47:05.783
+!MESSAGE Test needs property 'com.atollic.truestudio.toolchain_options.mcu.1044997403' fixed. Fixing to 'STM32F103C8'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2019-11-25 09:47:05.799
+!MESSAGE Test needs property 'com.atollic.truestudio.toolchain_options.vendor.1358436213' fixed. Fixing to 'STMicroelectronics'.
+
+!ENTRY org.eclipse.cdt.core 1 0 2019-11-25 09:47:16.455
+!MESSAGE Indexed 'Test' (18 sources, 50 headers) in 9.86 sec: 4,824 declarations; 14,468 references; 21 unresolved inclusions; 248 syntax errors; 3,307 unresolved names (15%)
+
+!ENTRY org.eclipse.ui.intro 4 0 2019-11-25 10:26:10.831
+!MESSAGE D:\Prog\STM32CubeMX\welcome\concept2.xhtml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: D:\Prog\STM32CubeMX\welcome\concept2.xhtml (The system cannot find the path specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:90)
+	at sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:188)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:623)
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:148)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:806)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:177)
+	at org.eclipse.ui.internal.intro.impl.model.loader.IntroContentParser.parse(IntroContentParser.java:94)
+	at org.eclipse.ui.internal.intro.impl.model.loader.IntroContentParser.<init>(IntroContentParser.java:56)
+	at org.eclipse.ui.internal.intro.impl.model.AbstractIntroPage.loadChildren(AbstractIntroPage.java:468)
+	at org.eclipse.ui.internal.intro.impl.model.AbstractIntroContainer.getChildren(AbstractIntroContainer.java:78)
+	at org.eclipse.ui.internal.intro.impl.model.IntroSearchParticipant.addPage(IntroSearchParticipant.java:173)
+	at org.eclipse.ui.internal.intro.impl.model.IntroSearchParticipant.addDocument(IntroSearchParticipant.java:159)
+	at org.eclipse.help.internal.search.SearchIndex.addDocument(SearchIndex.java:223)
+	at org.eclipse.help.internal.search.IndexingOperation.addDocuments(IndexingOperation.java:252)
+	at org.eclipse.help.internal.search.IndexingOperation.addNewDocuments(IndexingOperation.java:159)
+	at org.eclipse.help.internal.search.IndexingOperation.execute(IndexingOperation.java:106)
+	at org.eclipse.help.internal.search.LocalSearchManager.updateIndex(LocalSearchManager.java:630)
+	at org.eclipse.help.internal.search.LocalSearchManager.ensureIndexUpdated(LocalSearchManager.java:604)
+	at org.eclipse.help.internal.search.federated.IndexerJob.run(IndexerJob.java:32)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.ui.intro 4 0 2019-11-25 10:26:17.268
+!MESSAGE D:\Prog\STM32CubeMX\welcome\concept1.xhtml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: D:\Prog\STM32CubeMX\welcome\concept1.xhtml (The system cannot find the path specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:90)
+	at sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:188)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:623)
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:148)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:806)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:177)
+	at org.eclipse.ui.internal.intro.impl.model.loader.IntroContentParser.parse(IntroContentParser.java:94)
+	at org.eclipse.ui.internal.intro.impl.model.loader.IntroContentParser.<init>(IntroContentParser.java:56)
+	at org.eclipse.ui.internal.intro.impl.model.AbstractIntroPage.loadChildren(AbstractIntroPage.java:468)
+	at org.eclipse.ui.internal.intro.impl.model.AbstractIntroContainer.getChildren(AbstractIntroContainer.java:78)
+	at org.eclipse.ui.internal.intro.impl.model.IntroSearchParticipant.addPage(IntroSearchParticipant.java:173)
+	at org.eclipse.ui.internal.intro.impl.model.IntroSearchParticipant.addDocument(IntroSearchParticipant.java:159)
+	at org.eclipse.help.internal.search.SearchIndex.addDocument(SearchIndex.java:223)
+	at org.eclipse.help.internal.search.IndexingOperation.addDocuments(IndexingOperation.java:252)
+	at org.eclipse.help.internal.search.IndexingOperation.addNewDocuments(IndexingOperation.java:159)
+	at org.eclipse.help.internal.search.IndexingOperation.execute(IndexingOperation.java:106)
+	at org.eclipse.help.internal.search.LocalSearchManager.updateIndex(LocalSearchManager.java:630)
+	at org.eclipse.help.internal.search.LocalSearchManager.ensureIndexUpdated(LocalSearchManager.java:604)
+	at org.eclipse.help.internal.search.federated.IndexerJob.run(IndexerJob.java:32)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.help.base 4 4 2019-11-25 10:26:17.643
+!MESSAGE Help documentation could not be indexed completely.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-11-25 10:26:17.643
+!MESSAGE Help document /com.atollic.truestudio.pro.arm.doc/welcome/concept2.xhtml cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-11-25 10:26:17.643
+!MESSAGE Help document /com.atollic.truestudio.pro.arm.doc/welcome/concept1.xhtml cannot be opened.
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2019-11-25 10:29:47.338
+!MESSAGE Unloading product manager
+!SESSION 2019-11-25 10:30:01.578 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_ID
+Framework arguments:  D:\!Data\Project\STM32\Test\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86 D:\!Data\Project\STM32\Test\.cproject
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2019-11-25 10:30:09.232
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2019-11-25 10:30:09.310
+!MESSAGE OS info: Windows 10, 10.0, x86
+
+!ENTRY TrueSTUDIO 1 0 2019-11-25 10:30:21.212
+!MESSAGE Target: STM32, Version: 9.3.0, Build date: 20190212-0734, Installation dir: /D:/Prog/TrueSTUDIO for STM32 9.3.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2019-11-25 10:30:21.227
+!MESSAGE Workspace: D:\!Data\Project\STM32
+
+!ENTRY org.eclipse.jface 2 0 2019-11-25 10:30:29.418
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-11-25 10:30:29.418
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1cc9e1e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@16328b2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2019-11-25 10:30:49.388
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2019-11-25 10:30:49.623
+!MESSAGE Code Review is up.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-11-25 10:30:49.810
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\perba'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 5012 2019-11-25 10:35:37.869
+!MESSAGE Failed to execute MI command:
+target extended-remote localhost:61234
+
+Error message from debugger back end:
+localhost:61234: The system tried to join a drive to a directory on a joined drive.
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 5012 2019-11-25 10:36:17.653
+!MESSAGE Failed to execute MI command:
+target extended-remote localhost:61234
+
+Error message from debugger back end:
+localhost:61234: The system tried to join a drive to a directory on a joined drive.
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2019-11-25 10:57:23.838
+!MESSAGE Unloading product manager

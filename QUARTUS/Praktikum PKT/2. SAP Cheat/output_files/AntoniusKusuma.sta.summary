@@ -1,0 +1,101 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 100C Model Setup 'in_clk'
+Slack : -4.784
+TNS   : -134.519
+
+Type  : Slow 1100mV 100C Model Setup 'in_store'
+Slack : -4.079
+TNS   : -25.582
+
+Type  : Slow 1100mV 100C Model Hold 'in_clk'
+Slack : 0.199
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'in_store'
+Slack : 1.240
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'in_clk'
+Slack : -0.538
+TNS   : -39.882
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'in_store'
+Slack : 0.415
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Setup 'in_clk'
+Slack : -4.979
+TNS   : -139.965
+
+Type  : Slow 1100mV -40C Model Setup 'in_store'
+Slack : -4.467
+TNS   : -28.025
+
+Type  : Slow 1100mV -40C Model Hold 'in_clk'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'in_store'
+Slack : 1.343
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'in_clk'
+Slack : -0.538
+TNS   : -41.946
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'in_store'
+Slack : 0.410
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Setup 'in_clk'
+Slack : -2.015
+TNS   : -45.697
+
+Type  : Fast 1100mV 100C Model Setup 'in_store'
+Slack : -1.511
+TNS   : -9.281
+
+Type  : Fast 1100mV 100C Model Hold 'in_clk'
+Slack : 0.142
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'in_store'
+Slack : 0.683
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'in_clk'
+Slack : -0.094
+TNS   : -4.422
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'in_store'
+Slack : 0.092
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Setup 'in_clk'
+Slack : -1.683
+TNS   : -36.013
+
+Type  : Fast 1100mV -40C Model Setup 'in_store'
+Slack : -1.366
+TNS   : -8.430
+
+Type  : Fast 1100mV -40C Model Hold 'in_clk'
+Slack : 0.080
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'in_store'
+Slack : 0.627
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'in_clk'
+Slack : -0.091
+TNS   : -4.251
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'in_store'
+Slack : 0.073
+TNS   : 0.000
+
+------------------------------------------------------------

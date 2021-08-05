@@ -1,0 +1,279 @@
+$comment
+	File created using the following command:
+		vcd file AntoniusKusuma.msim.vcd -direction
+$end
+$date
+	Thu May 14 18:24:18 2020
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+
+$scope module AntoniusKusuma_vlg_vec_tst $end
+$var reg 1 ! clock $end
+$var reg 1 " push $end
+$var reg 1 # reset $end
+$var wire 1 $ led $end
+
+$scope module i1 $end
+$var wire 1 % gnd $end
+$var wire 1 & vcc $end
+$var wire 1 ' unknown $end
+$var tri1 1 ( devclrn $end
+$var tri1 1 ) devpor $end
+$var tri1 1 * devoe $end
+$var wire 1 + led~output_o $end
+$var wire 1 , reset~input_o $end
+$var wire 1 - clock~input_o $end
+$var wire 1 . push~input_o $end
+$var wire 1 / reg_fstate.state4~0_combout $end
+$var wire 1 0 fstate.state4~q $end
+$var wire 1 1 reg_fstate.state2~0_combout $end
+$var wire 1 2 fstate.state2~q $end
+$var wire 1 3 reg_fstate.state3~0_combout $end
+$var wire 1 4 fstate.state3~q $end
+$var wire 1 5 reg_fstate.state1~0_combout $end
+$var wire 1 6 fstate.state1~q $end
+$var wire 1 7 led~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+1"
+0#
+0$
+0%
+1&
+x'
+1(
+1)
+1*
+0+
+0,
+0-
+1.
+1/
+00
+01
+02
+03
+04
+15
+06
+07
+$end
+#1000
+1!
+1-
+16
+10
+17
+1+
+1$
+#2000
+0"
+0!
+0.
+0-
+13
+0/
+#3000
+1!
+1-
+14
+00
+#4000
+1"
+0!
+1.
+0-
+03
+11
+#5000
+1!
+1-
+04
+12
+07
+0+
+0$
+#6000
+0"
+0!
+0.
+0-
+05
+01
+#7000
+1!
+1-
+06
+02
+#8000
+1"
+0!
+1.
+0-
+15
+1/
+#9000
+1!
+1-
+16
+10
+17
+1+
+1$
+#10000
+0"
+0!
+0.
+0-
+13
+0/
+#11000
+1!
+1-
+14
+00
+#12000
+1"
+0!
+1.
+0-
+03
+11
+#13000
+1!
+1-
+04
+12
+07
+0+
+0$
+#14000
+0"
+0!
+0.
+0-
+05
+01
+#15000
+1!
+1-
+06
+02
+#16000
+1"
+0!
+1.
+0-
+15
+1/
+#17000
+1!
+1-
+16
+10
+17
+1+
+1$
+#18000
+0"
+0!
+0.
+0-
+13
+0/
+#19000
+1!
+1-
+14
+00
+#20000
+1"
+0!
+1.
+0-
+03
+11
+#21000
+1!
+1-
+04
+12
+07
+0+
+0$
+#22000
+0"
+0!
+0.
+0-
+05
+01
+#23000
+1!
+1-
+06
+02
+#24000
+1"
+0!
+1.
+0-
+15
+1/
+#25000
+1!
+1-
+16
+10
+17
+1+
+1$
+#26000
+0"
+0!
+0.
+0-
+13
+0/
+#27000
+1!
+1-
+14
+00
+#28000
+1"
+0!
+1.
+0-
+03
+11
+#29000
+1!
+1-
+04
+12
+07
+0+
+0$
+#30000
+0"
+0!
+0.
+0-
+05
+01
+#31000
+1!
+1-
+06
+02
+#32000

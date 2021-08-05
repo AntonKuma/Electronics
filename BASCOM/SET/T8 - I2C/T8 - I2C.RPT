@@ -1,0 +1,43 @@
+Compiler   : BASCOM 8051 LIBRARY V 2.14
+Processor  : 80515C
+Report     : T8 - I2C
+Date       : 10-27-2019
+Time       : 23:22:32
+
+Baud Timer : Internal baudrate generator
+Baudrate   : 0
+Frequency  : 11059200
+Clock div. : 6
+ROM start  : &H0
+RAM start  : &H0
+LCD mode   : 4-bit
+StackStart : &H3B
+Used ROM   : &H45F     1119 (dec)  > Ok
+
+--------------------------------------------------------------------------------
+Variable                         Type            Address(hex)   Address(dec)
+--------------------------------------------------------------------------------
+
+ERR                              Bit               20.4
+
+
+
+
+AC                               Integer           0035          53 
+GY                               Integer           0037          55 
+B1                               Integer           0039          57 
+
+
+
+
+
+
+
+
+
+CONSTANTS
+--------------------------------------------------------------------------------
+Constant                         Value
+--------------------------------------------------------------------------------
+_BUILDVERSION                    213
+

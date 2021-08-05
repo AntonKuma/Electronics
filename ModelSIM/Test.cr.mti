@@ -1,0 +1,6 @@
+D:/!!Data!!/Project/QUARTUS/1PKT/Tugas.v {0 {vlog -work work -stats=none D:/!!Data!!/Project/QUARTUS/1PKT/Tugas.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module COBA
+** Error: (vlog-13069) D:/!!Data!!/Project/QUARTUS/1PKT/Tugas.v(8): near "or": syntax error, unexpected or, expecting ';' or ','.
+
+} {4.0 5.0} {}}

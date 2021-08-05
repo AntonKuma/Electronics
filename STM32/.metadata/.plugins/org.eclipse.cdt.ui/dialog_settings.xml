@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+		<item value="184" key="size.height"/>
+		<item value="233" key="location.y"/>
+		<item value="384" key="size.width"/>
+		<item value="629" key="location.x"/>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+</section>

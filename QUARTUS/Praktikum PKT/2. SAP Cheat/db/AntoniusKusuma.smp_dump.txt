@@ -1,0 +1,9 @@
+
+State Machine - |sap1_top|ControlMatrix:CTRL_MATRIX|current_state
+Name current_state.S6 current_state.S5 current_state.S4 current_state.S3 current_state.S2 current_state.S1 
+current_state.S1 0 0 0 0 0 0 
+current_state.S2 0 0 0 0 1 1 
+current_state.S3 0 0 0 1 0 1 
+current_state.S4 0 0 1 0 0 1 
+current_state.S5 0 1 0 0 0 1 
+current_state.S6 1 0 0 0 0 1 

@@ -1,0 +1,14 @@
+|AntoniusKusuma
+reset => reg_fstate.state1.OUTPUTSELECT
+reset => reg_fstate.state2.OUTPUTSELECT
+reset => reg_fstate.state3.OUTPUTSELECT
+reset => reg_fstate.state4.OUTPUTSELECT
+reset => led.OUTPUTSELECT
+clock => fstate~1.DATAIN
+push => Selector3.IN2
+push => Selector0.IN1
+push => Selector2.IN0
+push => Selector1.IN0
+led << led.DB_MAX_OUTPUT_PORT_TYPE
+
+
